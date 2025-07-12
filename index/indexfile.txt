@@ -1,0 +1,71 @@
+1|Pirate Wars
+2|Ruins
+3|Cliffside Crazy
+4|Icy Cliff
+5|Mellow Mountain
+6|Sloppy Silo
+7|Sumo Showdown
+8|Sumo Smackdown
+9|Lobby
+10|TestZone
+11|lava land
+12|Tiny town 3
+13|neon playground
+14|Sussy_Court
+15|Karlson 2
+16|tinytown3XL   
+17|neon town
+18|Industry
+19|Playground5
+20|tower race
+21|island
+22|Planks
+23|bouncy playground
+24|GibsonHouse
+25|tkt
+26|BotZone
+27|Zentravaux
+28|ZentravauxModif
+29|Tournoi 1
+30|WuhuIsland
+7|Treasure Island
+3|Thomas's
+1|Pirate Caverns
+1|Karlson 2
+1|destination
+1|Planks
+1|Sussy Court
+1|TestMap
+1|neon playground
+2|bouncy playground
+1|neon town
+3|Hold Me Just Because
+1|La Lune
+1|BotZone
+1|Industry
+1|smallcontainers2
+1|tinytown3XL
+1|tower race
+1|GibsonHouse
+1|island
+1|TestZone
+1|tkt
+1|WuhuIsland
+1|lava land
+1|Tiny town 3
+1|Tournoi 1
+1|Zentravaux
+2|WeWillComeUpWithAName_
+1|NexoMap
+1|ccgm_mc_play_1
+1|ccgm_mc_race_1
+1|ancient_golem
+1|Challenge Ohio
+1|Spinny ohio
+1|Funky_Ohio
+1|Funky_Ohio_2
+1|MC-Plains
+1|OneChunk
+1|LaserRoom
+1|obby
+1|old_village
